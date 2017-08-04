@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Hello Cat
-=======
+
 Things I learned from Bloc.io:
 
 1.HTML Foundations and HTML Formations
